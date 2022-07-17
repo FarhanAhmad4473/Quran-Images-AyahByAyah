@@ -7,7 +7,7 @@ It should be generic so that later on we can replace the background image or Qur
 In the design image-1 between the 2 logos we need to put the Surah name programatically, as already shown in design_image-2 <br /> <br />
 Fonts to be used: <br />
 For Arabic Text  <br />
-Muhammadi Quranic  <br />
+Muhammadi Quranic Font  <br />
 For Urdu Text  <br />
-Alvi Nastaleeq <br />
+Alvi Nastaleeq Font <br />
 
